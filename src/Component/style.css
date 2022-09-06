@@ -1,0 +1,89 @@
+body{
+    background-image: linear-gradient(to right, rgb(219, 156, 219), rgb(194, 89, 200), rgb(150, 150, 76), rgb(207, 207, 102), rgb(177, 95, 18));
+}
+h1{
+ 
+    font-style: italic;
+    color: rgb(63, 24, 63);
+    margin-left: 13em;
+    text-shadow: 3px 3px 3px rgb(124, 65, 65);
+    
+}
+
+
+.btn1{
+  position: absolute;
+  height: 50px;
+  width: 30em;
+  background-color: rgb(75, 171, 167);
+  color: rgb(167, 231, 94);
+  border-radius: 25px;
+  left: 18em;
+  top: 11em;
+  font-style: italic;
+ font-weight: bolder;
+  cursor:pointer;
+  font-size: 15px;
+  
+
+}
+
+.btn2{
+    position: absolute;
+    height: 50px;
+    width: 30em;
+    background-color: rgb(75, 171, 167);
+    color: rgb(167, 231, 94);
+    border-radius: 25px;
+    left: 55em;
+    top: 11em;
+    font-style: italic;
+    font-weight: bolder;
+    cursor: pointer;
+    font-size: 15px;
+  
+  }
+
+  .Functional{
+    position: absolute;
+    border: 4px solid black;
+    padding: 20px;
+    border-radius: 3em;
+    background: rgb(232, 200, 141);
+    height: 18em;
+    width: 30em;
+    left: 12em;
+    top: 20em;
+  }
+
+  .Class{
+    position: absolute;
+    border: 4px solid black;
+    padding: 20px;
+    border-radius: 3em;
+    background: rgb(243, 188, 227);
+    height: 18em;
+    width: 30em;
+    left: 50em;
+    top: 20em;
+    
+  }
+
+  p{
+    text-align: center;
+  }
+
+.btn1:hover{
+  background-color:rgb(79, 192, 226);
+  text-shadow:3px 3px 3px black ;
+ 
+}
+
+.btn2:hover{
+    background-color:rgb(79, 192, 226);
+    text-shadow:3px 3px 3px black ;
+  }
+
+ h2{
+    text-align: center;
+  }
